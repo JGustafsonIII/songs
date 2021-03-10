@@ -2,8 +2,8 @@ import { combineReducers } from 'redux';
 // Reducers
 const songsReducer = () => {
   return [
-    { title: 'Nuts', duration: '1:40' },
-    { title: 'Hellboy', duration: '2:40' },
+    { title: 'No Scrubs', duration: '1:40' },
+    { title: 'Macarena', duration: '2:40' },
   ];
 };
 
